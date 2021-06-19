@@ -1,0 +1,14 @@
+name: waves-env
+channels:
+  - rmg
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - animatplot
+  - numba
+  - progressbar2
+  - ffmpeg
+  - ipykernel
+  - matplotlib=3.2.2
