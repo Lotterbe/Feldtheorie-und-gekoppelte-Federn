@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - numpy
+  - numpy=1.18.5
   - animatplot
   - numba=0.50.1
   - progressbar2
