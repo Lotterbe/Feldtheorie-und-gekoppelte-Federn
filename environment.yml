@@ -7,7 +7,7 @@ dependencies:
   - python=3.8
   - numpy
   - animatplot
-  - numba
+  - numba=0.50.1
   - progressbar2
   - ffmpeg
   - ipykernel
